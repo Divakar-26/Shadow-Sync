@@ -3,7 +3,7 @@
 Themes -> Rewind and Symmetry
 
 ## Demo
-    https://www.youtube.com/watch?v=OkP7m9FiYCo
+    [Watch on YouTube](https://www.youtube.com/watch?v=OkP7m9FiYCo)
 
 ## Controls
     • ← / → → Move main character (shadow mirrors)
