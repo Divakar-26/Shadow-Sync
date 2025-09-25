@@ -13,9 +13,9 @@ Themes -> Rewind and Symmetry
 ### installation and launch steps:
 
     • Go to Release
-    • Download *CheesyPixel_ShadowSync_Win64_v1.zip*
+    • Download CheesyPixel_ShadowSync_Win64_v1.zip
     • navigate to downloaded folder
-    • Extract *CheesyPixel_ShadowSync_Win64_v1.zip* using winrar or 7zip (there will be two files, Shadow Sync.exe and Shadow Sync.pck and they must be in same folder)
+    • Extract CheesyPixel_ShadowSync_Win64_v1.zip using winrar or 7zip (there will be two files, Shadow Sync.exe and Shadow Sync.pck and they must be in same folder)
     • Double click on Shadow Sync.exe and enjoy
 
 
