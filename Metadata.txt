@@ -1,0 +1,33 @@
+Metadata File
+
+GAME TITLE:
+SHADOW SYNC
+
+OVERVIEW:
+Shadow Sync is a 2D puzzle-platformer built in Godot, where you control a mysterious cloaked character — but every action you take is mirrored by its shadow, moving in the opposite direction. The challenge? Both the main character and the shadow must survive as you solve puzzles, dodge traps, and reach the end of each level. The game blends synchronized movement, inverted logic, and puzzle-solving into one unique gameplay experience.
+
+ENGINE USED:
+Godot
+
+PLATFORMS:
+Windows 
+
+GAMEPLAY:
+• You control the main blue character.
+• A shadow follows the same jump but inverted left/right movement.
+• The shadow can interact with buttons, levers, and mechanisms to unlock paths for the main character.
+• The main goal: guide the main character safely to the pit/exit while ensuring the shadow survives.
+
+SPECIAL POWER-UP: TIME REWIND
+• Press R to rewind the main character 1 second back in time.
+• The shadow, traps, and environment remain unaffected, creating strategic opportunities to avoid mistakes.
+
+TEAM DESCRIPTION:
+CHEESY PIXEL:
+- DIVAKAR UPADHYAY (LEADER)
+- MIHIR PRAKASH RAO
+- ANUJ KUMAR SHARMA
+
+OPTIONAL:
+GITHUB LINK: https://github.com/Divakar-26/HackTheGame
+License: MIT
