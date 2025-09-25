@@ -24,13 +24,12 @@ Themes -> Rewind and Symmetry
 
 ### installation and launch steps:
 
-    • Go to game Folder
-    • And double click on Shadow Sync.exe
-    • Enjoy
+    • Go to Release
+    • Download Shadow-Sync.zip
+    • navigate to downloaded folder
+    • Extract Shadow-Sync.zip using winrar or 7zip
+    • Double click o  Shadow-Sync.exe
 
 ### known issue:
     • Some collision issue
     • Player and mirror death issue
-# Shadow-Sync
-# Shadow-Sync
-# Shadow-Sync
