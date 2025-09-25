@@ -9,6 +9,16 @@ Themes -> Rewind and Symmetry
     • ← / → → Move main character (shadow mirrors)
     • Space → Jump (both jump together)
     • R → Rewind main character 1 seconds
+
+### installation and launch steps:
+
+    • Go to Release
+    • Download *CheesyPixel_ShadowSync_Win64_v1.zip*
+    • navigate to downloaded folder
+    • Extract *CheesyPixel_ShadowSync_Win64_v1.zip* using winrar or 7zip (there will be two files, Shadow Sync.exe and Shadow Sync.pck and they must be in same folder)
+    • Double click on Shadow Sync.exe and enjoy
+
+
 ## System Requirements
 ## Minimum
     • OS: Windows 7/8/10/11
@@ -25,13 +35,6 @@ Themes -> Rewind and Symmetry
     • Storage: 500 MB free space
     • Input: Keyboard + Controller support (optional)
 
-### installation and launch steps:
-
-    • Go to Release
-    • Download Shadow-Sync.zip
-    • navigate to downloaded folder
-    • Extract Shadow-Sync.zip using winrar or 7zip (there will be two files, Shadow Sync.exe and Shadow Sync.pck and they must be in same folder)
-    • Double click on Shadow Sync.exe and enjoy
 
 ### known issue:
     • Some collision issue
