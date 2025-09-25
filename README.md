@@ -2,6 +2,9 @@
 
 Themes -> Rewind and Symmetry
 
+## Demo
+    https://www.youtube.com/watch?v=OkP7m9FiYCo
+
 ## Controls
     • ← / → → Move main character (shadow mirrors)
     • Space → Jump (both jump together)
@@ -27,8 +30,8 @@ Themes -> Rewind and Symmetry
     • Go to Release
     • Download Shadow-Sync.zip
     • navigate to downloaded folder
-    • Extract Shadow-Sync.zip using winrar or 7zip
-    • Double click on Shadow-Sync.exe
+    • Extract Shadow-Sync.zip using winrar or 7zip (there will be two files, Shadow Sync.exe and Shadow Sync.pck and they must be in same folder)
+    • Double click on Shadow Sync.exe and enjoy
 
 ### known issue:
     • Some collision issue
