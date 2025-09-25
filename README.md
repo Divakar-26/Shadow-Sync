@@ -28,7 +28,7 @@ Themes -> Rewind and Symmetry
     • Download Shadow-Sync.zip
     • navigate to downloaded folder
     • Extract Shadow-Sync.zip using winrar or 7zip
-    • Double click o  Shadow-Sync.exe
+    • Double click on Shadow-Sync.exe
 
 ### known issue:
     • Some collision issue
